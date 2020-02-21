@@ -8,8 +8,9 @@ https://www.tindie.com/products/brianlough/esp32-matrix-shield-mini-32/
 https://github.com/2dom/PxMatrix
 
 Much of the sketch is based on various sketchs by https://github.com/witnessmenow
+
 Time sync is done through https://github.com/ropg/ezTime
 
-The openweathermap query occurs every two minutes as a FreeRTOS task not blocking loop()
 
+The openweathermap query occurs every two minutes as a FreeRTOS task not blocking loop()
 https://imgur.com/a/QXXN7yN
