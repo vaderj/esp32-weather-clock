@@ -4,7 +4,7 @@ https://www.amazon.com/Project-Mc2-545170-Pixel-Purse/dp/B06XT2LQPL
 
 I used Gorilla mounting tape to attach the two difusor screens together: https://www.homedepot.com/p/Gorilla-1-in-x-1-67-yd-Black-Heavy-Duty-Mounting-Tape-6055002/308910063
 
-I am using an ESP32 board to controll the panels, using the PXMatrix library: 
+I am using an ESP32 board to control the panels, using the PXMatrix library: 
 https://www.tindie.com/products/brianlough/esp32-matrix-shield-mini-32/
 
 https://github.com/2dom/PxMatrix
