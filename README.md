@@ -4,6 +4,7 @@ https://www.amazon.com/Project-Mc2-545170-Pixel-Purse/dp/B06XT2LQPL
 
 I am using an ESP32 board to controll the panels, using the PXMatrix library: 
 https://www.tindie.com/products/brianlough/esp32-matrix-shield-mini-32/
+
 https://github.com/2dom/PxMatrix
 
 Much of the sketch is based on various sketchs by https://github.com/witnessmenow
